@@ -6,6 +6,6 @@
   </a>
 </p>
 
-- 🔭 Software Engineer at [Vezoa](vezoa.com).
-- ⚡  I have been working with [Laravel](laravel.com) for the past years, the most popular PHP framework in the world.
+- 🔭 Software Engineer at [Vezoa](http://vezoa.com).
+- ⚡  I have been working with [Laravel](http://laravel.com) for the past years, the most popular PHP framework in the world.
 - 📫 You can reach me on lucasgiovanny@gmail.com 
