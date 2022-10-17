@@ -4,3 +4,7 @@
 - :computer:  Senior PHP developer and [Laravel](http://laravel.com) expert. You can find some of my works in my repositories.
 - :boom: Community contributor and aspiring speaker.
 - 📫 You can reach me on lucasgiovanny@gmail.com or twitter [@lucgiovanny](http://twitter.com/lucgiovanny).
+
+<img src="phplisbon.jpeg" width="250" />
+
+_PHP Lisbon Meetup, September 2022_
