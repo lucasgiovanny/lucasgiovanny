@@ -6,6 +6,6 @@ With a comprehensive understanding of the web development industry, I take pride
 
 <img src="laraconeu.jpeg" width="100%" />
 
-- 💼 Current Chief Technology Officer at [Vezoa](https://github.com/vezoa) and founder of [Uncle Technologies](https://uncletechnologies.com).
+- 💼 Current CTO at [Vezoa](https://github.com/vezoa) and founder of [Uncle Technologies](https://uncletechnologies.com).
 - 🎙️ Co-host of [PHP Portugal Podcast](https://podcasters.spotify.com/pod/show/php-portugal).
 - 📫 You can reach me on lucasgiovanny@gmail.com or twitter [@lucgiovanny](http://twitter.com/lucgiovanny).
