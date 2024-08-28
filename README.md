@@ -1,6 +1,6 @@
 ### Hi there, you found my profile! 👋
 
-I'm Lucas, a web developer with over a decade of experience wrangling PHP and making magic happen with frameworks like Laravel and Symfony. I’m a huge fan of open-source, and I've had the chance to contribute to some pretty cool projects like Laravel Core, Pest PHP, and Filament PHP. When I'm not knee-deep in code, you might catch me sharing my thoughts at meetups and conferences like 🇵🇹 [Laracon EU 2023](https://laracon.eu), 🇬🇧 [Laravel Live UK 2023](https://laravellive.uk), 🇧🇪 [FullStack EU 2023](https://fullstackeurope.com/2023) and 🇩🇰 [Laravel Live DK 2024](https://laravellive.dk).
+I'm Lucas, a software engineer with over a decade of experience wrangling PHP and making magic happen with frameworks like Laravel and Symfony. I’m a huge fan of open-source, and I've had the chance to contribute to some pretty cool projects like Laravel Core, Pest PHP, and Filament PHP. When I'm not knee-deep in code, you might catch me sharing my thoughts at meetups and conferences like 🇵🇹 [Laracon EU 2023](https://laracon.eu), 🇬🇧 [Laravel Live UK 2023](https://laravellive.uk), 🇧🇪 [FullStack EU 2023](https://fullstackeurope.com/2023) and 🇩🇰 [Laravel Live DK 2024](https://laravellive.dk).
 
 By day, I'm the Engineering Team Lead at [Worksome](https://worksome.com), where I get to lead an awesome team of developers. With previous gigs as a Team Lead and CTO, I've got a pretty solid handle on team management—aka making sure we ship on time and have fun doing it.
 
