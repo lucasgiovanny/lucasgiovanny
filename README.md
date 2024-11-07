@@ -1,12 +1,10 @@
 ### Hi there, you found my profile! 👋
 
-I'm Lucas, a software engineer with over a decade of experience wrangling PHP and making magic happen with frameworks like Laravel and Symfony. I’m a huge fan of open-source, and I've had the chance to contribute to some pretty cool projects like Laravel Core, Pest PHP, and Filament PHP. When I'm not knee-deep in code, you might catch me sharing my thoughts at meetups and conferences like 🇵🇹 [Laracon EU 2023](https://laracon.eu), 🇬🇧 [Laravel Live UK 2023](https://laravellive.uk), 🇧🇪 [FullStack EU 2023](https://fullstackeurope.com/2023) and 🇩🇰 [Laravel Live DK 2024](https://laravellive.dk).
+I’m Lucas, a software engineer with over a decade of experience in PHP and frameworks like Laravel and Symfony. I’m passionate about open-source and have contributed to projects like Laravel Core, Pest PHP, and Filament PHP. I frequently share my insights at conferences such as 🇵🇹 [Laracon EU 2023](https://laracon.eu), 🇬🇧 [Laravel Live UK 2023](https://laravellive.uk), 🇧🇪 [FullStack EU 2023](https://fullstackeurope.com/2023), 🇩🇰 [Laravel Live DK 2024](https://laravellive.dk) and the upcoming 🇮🇳 [Laracon India 2025](https://laracon.in).
 
-By day, I'm the Engineering Team Lead at [Worksome](https://worksome.com), where I get to lead an awesome team of developers. With previous gigs as a Team Lead and CTO, I've got a pretty solid handle on team management—aka making sure we ship on time and have fun doing it.
+Currently, I’m the Engineering Team Lead at [Worksome](https://worksome.com), leading a team of developers. With previous experience as a Team Lead and CTO, I’ve developed strong skills in team management, ensuring we deliver on time while maintaining a positive work environment.
 
 <img src="laraconeu.jpeg" width="100%" />
-
-I'm always on the lookout for new things to learn and ways to push the boundaries of what we can build on the web.
 
 - 💼 Current Engineering Team Lead at [Worksome](https://github.com/worksome).
 - 🏠 Home assistant and home automation enthusiast.
